@@ -80,3 +80,7 @@ C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\obj\D
 C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\obj\Debug\SageHackbarthFinal.pdb
 C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\bin\SageHackbarthFinal.Shared.dll
 C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\bin\SageHackbarthFinal.Shared.pdb
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\bin\EntityFramework.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\bin\EntityFramework.xml
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal\bin\EntityFramework.SqlServer.xml

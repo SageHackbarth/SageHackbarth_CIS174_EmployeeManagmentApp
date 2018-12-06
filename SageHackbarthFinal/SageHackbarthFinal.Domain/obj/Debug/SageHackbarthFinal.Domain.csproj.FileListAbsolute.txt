@@ -1,0 +1,16 @@
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\bin\Debug\SageHackbarthFinal.Domain.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\bin\Debug\SageHackbarthFinal.Domain.pdb
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.pdb
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\bin\Debug\SageHackbarthFinal.Domain.dll.config
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.csproj.CopyComplete
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.Migrations.TestCompanyDB.resources
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.csproj.GenerateResource.cache
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.csprojAssemblyReference.cache
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.Migrations.GetStuffInDB.resources
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Domain\obj\Debug\SageHackbarthFinal.Domain.Migrations.TestCompanyDB1.resources
