@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SageHackbarthFinal", "SageHackbarthFinal\SageHackbarthFinal.csproj", "{7AD5287E-91AE-4CC4-918E-7E660AFE8979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SageHackbarthFinal.Shared", "SageHackbarthFinal.Shared\SageHackbarthFinal.Shared.csproj", "{1BD3E886-4C9D-4124-AC72-BA763483D0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD5287E-91AE-4CC4-918E-7E660AFE8979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD5287E-91AE-4CC4-918E-7E660AFE8979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD5287E-91AE-4CC4-918E-7E660AFE8979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD5287E-91AE-4CC4-918E-7E660AFE8979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD3E886-4C9D-4124-AC72-BA763483D0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD3E886-4C9D-4124-AC72-BA763483D0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD3E886-4C9D-4124-AC72-BA763483D0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD3E886-4C9D-4124-AC72-BA763483D0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F9F166-8CEB-473D-8617-F08C29555425}
+	EndGlobalSection
+EndGlobal

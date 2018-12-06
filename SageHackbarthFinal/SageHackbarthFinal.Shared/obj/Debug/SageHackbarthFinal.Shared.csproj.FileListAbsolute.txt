@@ -1,0 +1,6 @@
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Shared\bin\Debug\SageHackbarthFinal.Shared.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Shared\bin\Debug\SageHackbarthFinal.Shared.pdb
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Shared\obj\Debug\SageHackbarthFinal.Shared.csprojAssemblyReference.cache
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Shared\obj\Debug\SageHackbarthFinal.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Shared\obj\Debug\SageHackbarthFinal.Shared.dll
+C:\Users\Sage Hackbarth\source\repos\SageHackbarthFinal\SageHackbarthFinal.Shared\obj\Debug\SageHackbarthFinal.Shared.pdb
